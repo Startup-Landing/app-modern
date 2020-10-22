@@ -1,0 +1,14 @@
+{
+  "name": "004-app-modern-landing-next",
+  "description": "Collection of free top of the line startup landing templates built using react/ next js. Free to download, simply edit and deploy! Updated weekly!",
+  "formation": {
+    "web": {
+      "quantity": 1
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}
